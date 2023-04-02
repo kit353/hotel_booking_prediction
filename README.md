@@ -1,2 +1,2 @@
 # hotel_booking_prediction
-s
+prediction work of hotel dataset, logistic regression
